@@ -1,0 +1,5 @@
+PyPDF2
+beautifulsoup4
+streamlit
+groq
+python-dotenv
